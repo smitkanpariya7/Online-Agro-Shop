@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SK_AGRO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98957426-2A69-4AC8-8FE9-587B20707CD8}|SK_AGRO.csproj|d:\\sk_agro\\forget_password.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{98957426-2A69-4AC8-8FE9-587B20707CD8}|SK_AGRO.csproj|solutionrelative:forget_password.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98957426-2A69-4AC8-8FE9-587B20707CD8}|SK_AGRO.csproj|d:\\sk_agro\\forget_password.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98957426-2A69-4AC8-8FE9-587B20707CD8}|SK_AGRO.csproj|solutionrelative:forget_password.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98957426-2A69-4AC8-8FE9-587B20707CD8}|SK_AGRO.csproj|d:\\sk_agro\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{98957426-2A69-4AC8-8FE9-587B20707CD8}|SK_AGRO.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98957426-2A69-4AC8-8FE9-587B20707CD8}|SK_AGRO.csproj|D:\\SK_AGRO\\admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{98957426-2A69-4AC8-8FE9-587B20707CD8}|SK_AGRO.csproj|solutionrelative:admin\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98957426-2A69-4AC8-8FE9-587B20707CD8}|SK_AGRO.csproj|D:\\SK_AGRO\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{98957426-2A69-4AC8-8FE9-587B20707CD8}|SK_AGRO.csproj|solutionrelative:cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98957426-2A69-4AC8-8FE9-587B20707CD8}|SK_AGRO.csproj|D:\\SK_AGRO\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{98957426-2A69-4AC8-8FE9-587B20707CD8}|SK_AGRO.csproj|solutionrelative:index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dashboard.aspx",
+              "DocumentMoniker": "D:\\SK_AGRO\\admin\\dashboard.aspx",
+              "RelativeDocumentMoniker": "admin\\dashboard.aspx",
+              "ToolTip": "D:\\SK_AGRO\\admin\\dashboard.aspx",
+              "RelativeToolTip": "admin\\dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-21T10:50:57.088Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.aspx",
+              "DocumentMoniker": "D:\\SK_AGRO\\index.aspx",
+              "RelativeDocumentMoniker": "index.aspx",
+              "ToolTip": "D:\\SK_AGRO\\index.aspx",
+              "RelativeToolTip": "index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-31T11:59:56.22Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\SK_AGRO\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\SK_AGRO\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-25T17:20:55.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "forget_password.aspx.cs",
+              "DocumentMoniker": "D:\\SK_AGRO\\forget_password.aspx.cs",
+              "RelativeDocumentMoniker": "forget_password.aspx.cs",
+              "ToolTip": "D:\\SK_AGRO\\forget_password.aspx.cs",
+              "RelativeToolTip": "forget_password.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:14:15.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "forget_password.aspx",
+              "DocumentMoniker": "D:\\SK_AGRO\\forget_password.aspx",
+              "RelativeDocumentMoniker": "forget_password.aspx",
+              "ToolTip": "D:\\SK_AGRO\\forget_password.aspx",
+              "RelativeToolTip": "forget_password.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-25T17:04:37.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cart.aspx",
+              "DocumentMoniker": "D:\\SK_AGRO\\cart.aspx",
+              "RelativeDocumentMoniker": "cart.aspx",
+              "ToolTip": "D:\\SK_AGRO\\cart.aspx",
+              "RelativeToolTip": "cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-08-21T12:02:34.053Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
